@@ -1,0 +1,151 @@
+\begin{thebibliography}{10}
+
+\bibitem{17:phdthesis}
+Goshtasby A.
+\newblock A symbolieally-assisted approach to digital image registration with
+  application in computer vision.
+\newblock 1983.
+
+\bibitem{2:article}
+C.Stewart A.Can and B.Roysam.
+\newblock A feature-based, robust, hierarchical algorithm for registering pairs
+  of images of the curved human retina.
+\newblock {\em IEEE Trans. Pattern Analysis and Machine Intelligence},
+  24(3):347--364, Mar 2002.
+
+\bibitem{8:article}
+Silverman~H Barnea~D.
+\newblock A class of algorithms for fast digital image registration.
+\newblock {\em IEEE Transactions on Computers}, 21(2):179--186, 1972.
+
+\bibitem{26:proceedings}
+Gool L~Van Bay~H, Tuvtellars~T.
+\newblock Surf: speeded up robust features.
+\newblock 60, 2006.
+
+\bibitem{11:article}
+Morandi~C Castro~E.
+\newblock Registration of translated and rotated images using finite fourier
+  transform.
+\newblock {\em IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  9(5):700--703, 19787.
+
+\bibitem{12:article}
+Deconinck~F Chen~Q, Defrise~M.
+\newblock Symmetric phase-only matched filtering of fourier–mellin transform
+  for image registration and recognition.
+\newblock {\em IEEE Transactions on Pattern Analysis and Machine
+  Intellingence}, 16(12):1156--1168, 1994.
+
+\bibitem{3:article}
+C.-L.Tsai C.V.Stewart.
+\newblock The dual-bootstrap iterative closest point algorithm with application
+  to retinal image registration.
+\newblock {\em IEEE Trans. Medical Imaging}, 22(11):1379--1394, Nov 2003.
+
+\bibitem{24:proceedings}
+Lowe D.
+\newblock Object recognition from local scale-invariant features.
+\newblock 9(2):1150--1157, 1999.
+
+\bibitem{25:article}
+Lowe D.
+\newblock Distinctive image features from scale-invariant keypoints.
+\newblock {\em Int. J.Comput. Vis.}, 60(2):91--110, 2004.
+
+\bibitem{1:article}
+F.Zana and J.C.Klein.
+\newblock A multimodal registration algorithm of eye fundus images using
+  vessels detection and hough transform.
+\newblock {\em IEEE Trans. Medical Imaging}, 18(5):419--428, May 1999.
+
+\bibitem{4:article}
+P.A.Asvestas G.K.Matsopoulos and N.A.Mouravliansky.
+\newblock Multimodal registration of retinal images using self-organizing maps.
+\newblock {\em IEEE Trans. Medical Imaging}, 23(12):1557--1563, Dec 2004.
+
+\bibitem{5:article}
+N.Mouravliansky G.Matsopoulos and K.Delibasisand.
+\newblock Automatic retinal image registration scheme using global optimization
+  techniques.
+\newblock {\em IEEE Trans. Inform. Technol. Biomed}, 3(1):47--60, Mar 1999.
+
+\bibitem{22:proceedings}
+Moravec H.
+\newblock Towards automatic visual obstacle avoidance.
+\newblock 584, 1977.
+
+\bibitem{23:proceedings}
+Stephens~M Harris~C.
+\newblock A combined corner and edge detector.
+\newblock 15, 1988.
+
+\bibitem{19:article}
+Moigne~J Mount~D, Netanyahu~N.
+\newblock Effcient algorithms for robust feature matching.
+\newblock {\em Pattern Recognition}, 32(1):17--38, 1999.
+
+\bibitem{7:article}
+A.Skoupy M.Skokan and J.Jan.
+\newblock Registration of multimodal images of retina.
+\newblock {\em Proc. EMBS/BMES Conf}, 2:1094--1096, 2002.
+
+\bibitem{6:article}
+J.Cooper N.Ritter, R.Owens and R.Eikelboom.
+\newblock Registration of stereo and temporal images of the retina.
+\newblock {\em IEEE Trans. Med.Imag}, 18(5):404--418, May 1999.
+
+\bibitem{16:article}
+Viergever~M Pluim~J, Maintz~J.
+\newblock Image regist ration by maximization of combined mutual information
+  and gradient information.
+\newblock {\em IEEE Transactions on Medical Imaging}, 19(8):809--815, 2000.
+
+\bibitem{13:article}
+Chatterji~B Reddy~B.
+\newblock An fft-based technique for translation, rotation and scale-invariant
+  image registration.
+\newblock {\em IEEE Transactions on Image Processing}, 5(8):1266--1271, 1996.
+
+\bibitem{10:article}
+Malandain~M Roche~A, Pennec X, and Ayache N.
+\newblock The correlation ratio as a new similarity measure for multimodal
+  image registration.
+\newblock {\em IEEE Transactions on Aerospace and Electronic Systems},
+  10(3):353--358, 1974.
+
+\bibitem{15:article}
+Hawkes~D Studholme~C, Hill~D.
+\newblock An overlap invariant entroy measures of 3d medical image alignment.
+\newblock {\em Pattern Reeognition}, 32(1):71--86, 1999.
+
+\bibitem{20:article}
+Ranganath~M Tham~J, Ranganath~S and Kassim A.
+\newblock A novel unrestricted center-biased diamond search algorithm for block
+  motion estimation.
+\newblock {\em IEEE Transactions on Circuits System and Video Technology},
+  8(4):369--377, 1998.
+
+\bibitem{18:article}
+Jain~A Ton~J.
+\newblock Registering landsat images by point matehing.
+\newblock {\em IEEE Transactions on Geoscience and Remote Sensing},
+  27(5):642--651, 1989.
+
+\bibitem{14:article}
+Wells~w Viola~P.
+\newblock Alignment bymaximization ofmutual information.
+\newblock {\em International Journal of Computer Vision}, 24(2):137--154, 1997.
+
+\bibitem{9:article}
+Pratt W.
+\newblock Correlation techniques of image registration.
+\newblock {\em IEEE Transactions on Aerospace and Electronic Systems},
+  10(3):353--358, 1974.
+
+\bibitem{21:article}
+Zhuang~Y Yuan~Z, Wu~F.
+\newblock Multi-sensor image registration using multiresolution shape analysis.
+\newblock {\em JOURNAL OF ZHEJIANG UNIVERSITY SCIENCE A}, 7(4):549--555, 2006.
+
+\end{thebibliography}

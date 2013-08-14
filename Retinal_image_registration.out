@@ -1,0 +1,14 @@
+\BOOKMARK [1][-]{section.1}{绪论}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{图像配准的相关理论}{section.1}% 2
+\BOOKMARK [3][-]{subsubsection.1.1.1}{图像配准的基本概念}{subsection.1.1}% 3
+\BOOKMARK [3][-]{subsubsection.1.1.2}{图像配准的一般流程}{subsection.1.1}% 4
+\BOOKMARK [2][-]{subsection.1.2}{图像配准技术的国内外研究现状}{section.1}% 5
+\BOOKMARK [3][-]{subsubsection.1.2.1}{基于灰度的图像配准}{subsection.1.2}% 6
+\BOOKMARK [3][-]{subsubsection.1.2.2}{基于特征的图像配准}{subsection.1.2}% 7
+\BOOKMARK [2][-]{subsection.1.3}{视网膜图像配准的发展}{section.1}% 8
+\BOOKMARK [1][-]{section.2}{基于分叉结构的视网膜图像配准}{}% 9
+\BOOKMARK [2][-]{subsection.2.1}{理论}{section.2}% 10
+\BOOKMARK [3][-]{subsubsection.2.1.1}{分支结构}{subsection.2.1}% 11
+\BOOKMARK [3][-]{subsubsection.2.1.2}{相似性度量}{subsection.2.1}% 12
+\BOOKMARK [3][-]{subsubsection.2.1.3}{确认匹配}{subsection.2.1}% 13
+\BOOKMARK [2][-]{subsection.2.2}{流程（程序部分）}{section.2}% 14
